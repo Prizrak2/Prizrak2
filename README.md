@@ -5,7 +5,7 @@
 - Interested in delving deeper into backend and cybersecurity in the future
 
 ##
-![csdev](https://github-readme-stats.vercel.app/api?username=carlos676767&show_icons=true&theme=dracula)
+![csdev](https://github-readme-stats.vercel.app/api?username=Prizrak2&show_icons=true&theme=dracula)
 
 <!--
 **Prizrak2/Prizrak2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
