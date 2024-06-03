@@ -5,10 +5,12 @@
 - Interested in delving deeper into backend and cybersecurity in the future
 
 ##
-![csdev](https://github-readme-stats.vercel.app/api?username=Prizrak2&show_icons=true&theme=dracula)
+![dev](https://github-readme-stats.vercel.app/api?username=Prizrak2&theme=blue-green)
 
 ## Technologies I'm Currently using
 ![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
