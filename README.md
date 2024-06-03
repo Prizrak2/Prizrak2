@@ -5,7 +5,7 @@
 - Interested in delving deeper into backend and cybersecurity in the future
 
 ##
-![dev](https://github-readme-stats.vercel.app/api?username=Prizrak2&theme=blue-green)
+![dev](https://github-readme-stats.vercel.app/api?username=Prizrak2&theme=tokyonight)
 
 ## Technologies I'm Currently using
 - IDEs
