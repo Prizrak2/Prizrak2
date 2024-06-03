@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm Prizrak and I'm called Lucas Nunes(IRL) I'm currently studying Computer Engineering finishing my 3º semester
+##
 Making some personal projects outside the college and trying to learn more each day
+##
 Interested in delving deeper into backend and cybersecurity in the future
 
 <!--
