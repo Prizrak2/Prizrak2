@@ -1,8 +1,8 @@
 ## Hi there 👋
-I'm Prizrak and I'm called Lucas Nunes (IRL)
-Currently studying Computer Engineering finishing my 3º semester
-Making some personal projects outside the college and trying to learn more each day
-Interested in delving deeper into backend and cybersecurity in the future
+- I'm Prizrak and I'm called Lucas Nunes (IRL)
+- Currently studying Computer Engineering finishing my 3º semester
+- Making some personal projects outside the college and trying to learn more each day
+- Interested in delving deeper into backend and cybersecurity in the future
 
 <!--
 **Prizrak2/Prizrak2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
