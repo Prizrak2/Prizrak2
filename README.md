@@ -1,5 +1,5 @@
-## Hi there, I'm Prizrak 👋
-- I'm called Lucas Nunes (IRL) and I'm 18 years old
+## Hi there, I'm Lucas 👋
+- I'm 18 years old
 - Currently studying Computer Engineering finishing my 3º semester
 - Making some personal projects outside the college and trying to learn more each day
 - Interested in delving deeper into backend and cybersecurity in the future
