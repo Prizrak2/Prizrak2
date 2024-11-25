@@ -16,7 +16,7 @@
 - Languages
   
     ![C](https://go-skill-icons.vercel.app/api/icons?i=c&titles=true)
-    ![C++](https://go-skill-icons.vercel.app/api/icons?i=c++&titles=true)
+    ![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true)
     ![java](https://go-skill-icons.vercel.app/api/icons?i=java&titles=true)
     ![python](https://go-skill-icons.vercel.app/api/icons?i=python&titles=true)
     ![lua](https://go-skill-icons.vercel.app/api/icons?i=lua&titles=true)
