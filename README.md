@@ -6,13 +6,7 @@
 ##
 ![dev](https://github-readme-stats.vercel.app/api?username=Prizrak2&theme=transparent)
 
-## Technologies That I Know
-- IDEs
-  
-    ![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-    ![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-    ![netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
-
+## Technologies
 - Languages
   
     ![C](https://go-skill-icons.vercel.app/api/icons?i=c&titles=true)
@@ -24,21 +18,18 @@
 
 - SGBDs
   
-    ![postgree](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![postgree](https://go-skill-icons.vercel.app/api/icons?i=postgresql&titles=true)
 
 - OS
   
-    ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-    ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+    ![debian](https://go-skill-icons.vercel.app/api/icons?i=debian&titles=true)
+    ![windows](https://go-skill-icons.vercel.app/api/icons?i=windows&titles=true)
 
 <!--![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)-->
 
 ## Current Learning
-  ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-  ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 <!--
 **Prizrak2/Prizrak2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
