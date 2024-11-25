@@ -3,8 +3,6 @@
 - Currently studying Computer Engineering doing the 4º semester
 - Making some personal projects outside the college and trying to learn more each day
 - At the moment starting my study about Machine Learning and Neural Networks
-- Interested in delving deeper into backend and cybersecurity in the future
-
 ##
 ![dev](https://github-readme-stats.vercel.app/api?username=Prizrak2&theme=transparent)
 
