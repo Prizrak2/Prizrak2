@@ -29,7 +29,7 @@
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)-->
 
 ## Current Learning
-
+  ![tensorflow](https://go-skill-icons.vercel.app/api/icons?i=tensorflow&titles=true)
 
 <!--
 **Prizrak2/Prizrak2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
