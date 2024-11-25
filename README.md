@@ -20,7 +20,7 @@
     ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![python]((https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue))
     ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-    ![assembly]((https://go-skill-icons.vercel.app/api/icons?i=assembly&titles=true))
+    ![assembly]([(https://go-skill-icons.vercel.app/api/icons?i=assembly&titles=true)](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true))
 
 - SGBDs
   
