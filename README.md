@@ -31,7 +31,10 @@
 ## Current Learning
   ![tensorflow](https://go-skill-icons.vercel.app/api/icons?i=tensorflow&titles=true)
   ![pytorch](https://go-skill-icons.vercel.app/api/icons?i=pytorch&titles=true)
-  ![keras](https://go-skill-icons.vercel.app/api/icons?i=keras&titles=true)
+  ![latex](https://go-skill-icons.vercel.app/api/icons?i=latex&titles=true)
+
+  
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 <!--
 **Prizrak2/Prizrak2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
