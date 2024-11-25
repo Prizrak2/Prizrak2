@@ -15,11 +15,11 @@
 
 - Languages
   
-    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![python]((https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue))
-    ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+    ![C](https://go-skill-icons.vercel.app/api/icons?i=c&titles=true)
+    ![C++](https://go-skill-icons.vercel.app/api/icons?i=c++&titles=true)
+    ![java](https://go-skill-icons.vercel.app/api/icons?i=java&titles=true)
+    ![python](https://go-skill-icons.vercel.app/api/icons?i=python&titles=true)
+    ![lua](https://go-skill-icons.vercel.app/api/icons?i=lua&titles=true)
     ![assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly&titles=true)
 
 - SGBDs
