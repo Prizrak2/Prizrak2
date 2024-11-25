@@ -6,7 +6,7 @@
 ##
 ![dev](https://github-readme-stats.vercel.app/api?username=Prizrak2&theme=transparent)
 
-## Technologies I'm Currently using
+## Technologies That I Know
 - IDEs
   
     ![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -16,8 +16,11 @@
 - Languages
   
     ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+    ![python]((https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue))
+    ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+    ![assembly]((https://go-skill-icons.vercel.app/api/icons?i=assembly&titles=true))
 
 - SGBDs
   
