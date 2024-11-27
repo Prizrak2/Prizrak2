@@ -12,6 +12,7 @@ class Prizrak extends ComputerEngineer {
     public Prizrak(){
 
     }
+}
 ```
 <img src="https://i.gifer.com/371a.gif" width="500">
 <div>
