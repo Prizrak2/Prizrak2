@@ -1,10 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=A70127&background=48064313&center=true&vCenter=true&width=435&lines=Bem+Vindo+ao+meu+Perfil!;Eu+sou+o+Lucas!)](https://git.io/typing-svg)
-- I'm 18 years old
-- Currently studying Computer Engineering doing the 4º semester
-- Making some personal projects outside the college and trying to learn more each day
-- At the moment starting my study about Machine Learning and Neural Networks
-##
-![dev](https://github-readme-stats.vercel.app/api?username=Prizrak2&theme=transparent)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A70127&background=48064300&width=435&lines=%3Ch1%3E+Bem+Vindo+ao+meu+Perfil!+%3C%2Fh1%3E;%3Cp%3E+Eu+sou+o+Lucas!+%3C%2Fp%3E)](https://git.io/typing-svg)
+
+```java
+class Prizrak extends ComputerEngineer {
+    private String nome = "Lucas Nunes";
+    private int idade = 18;
+    private String cidade/estado = "Goiania-GO";
+    private String enfase = "Ciência de Dados/Deep Learning";
+
+    public Prizrak(){
+
+    }
+```
+<img src="https://i.gifer.com/371a.gif" width="500">
+<div>
+  <a href="https://github.com/Prizrak2">
+    <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=Prizrak2&theme=shadow_red"/><br />
+    <img height="120em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prizrak2&layout=compact&langs_count=10&theme=shadow_red"/>
+  </a>
+</div>
+
 
 ## Technologies
 - Languages
