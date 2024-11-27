@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A70127&background=48064300&width=435&lines=%3Ch1%3E+Bem+Vindo+ao+meu+Perfil!+%3C%2Fh1%3E;%3Cp%3E+Eu+sou+o+Lucas!+%3C%2Fp%3E)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A70127&background=48064300&width=435&lines=%3Ch1%3E+Bem+Vindo+ao+meu+Perfil!+%3C%2Fh1%3E;%3Cp%3E+Eu+sou+o+Lucas!+%3C%2Fp%3E"/></a>
+</p>
 
 ```java
 class Prizrak extends ComputerEngineer {
