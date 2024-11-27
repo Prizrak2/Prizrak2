@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+Vindo!,+Eu+sou+o+Lucas!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+Vindo!+Eu+sou+o+Lucas!;)](https://git.io/typing-svg)
 - I'm 18 years old
 - Currently studying Computer Engineering doing the 4º semester
 - Making some personal projects outside the college and trying to learn more each day
