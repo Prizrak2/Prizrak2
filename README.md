@@ -17,7 +17,6 @@ class Prizrak extends ComputerEngineer {
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prizrak2&show_icons=true&theme=gotham&hide_border=true&custom_title=Prizrak2" height="150" />
   </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prizrak2&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="392" alt="languages graph"  />
 </div>
