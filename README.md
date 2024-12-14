@@ -2,6 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3bd94d&center=true&vCenter=true&multiline=true&width=435&height=70&lines=%3Ch1%3E+Bem+Vindo+ao+meu+Perfil!+%3C%2Fh1%3E;%3Cp%3E+Eu+sou+o+Lucas!+%3C%2Fp%3E"/></a>
 </p>
 
+
 ```dart
 class Prizrak extends ComputerEngineer {
     private String nome = "Lucas Nunes";
