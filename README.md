@@ -6,9 +6,8 @@
 ```dart
 class Prizrak extends ComputerEngineer {
     private String nome = "Lucas Nunes";
-    private int idade = 18;
+    private int idade = 19;
     private String cidade\estado = "Goiania-GO";
-    private String enfase = "Ciência de Dados/Deep Learning";
 
     public Prizrak(){
 
