@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3bd94d&center=true&vCenter=true&multiline=true&width=435&height=70&lines=%3Ch1%3E+Bem+Vindo+ao+meu+Perfil!+%3C%2Fh1%3E;%3Cp%3E+Eu+sou+o+Lucas!+%3C%2Fp%3E"/></a>
-</p>
-
-
 ```dart
 class Prizrak extends ComputerEngineer {
     private String nome = "Lucas Nunes";
@@ -46,17 +41,11 @@ class Prizrak extends ComputerEngineer {
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@spectre2000" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="youtube logo"  />
-  </a>
   <a href="lucaspereiranunes63@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/lucas-pereira-nunes-729bb4239/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucaspereiranunes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
-  </a>
-  <a href=".prizrak1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
   </a>
 </div>
 
