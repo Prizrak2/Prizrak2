@@ -53,8 +53,6 @@ class Prizrak extends ComputerEngineer {
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Prizrak2/Prizrak2/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
